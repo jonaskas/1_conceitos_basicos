@@ -1,3 +1,10 @@
-# 1_conceitos_basicos
+# Conceitos Basicos
 
-Regras, tipos de dados e operadores
+* Comentários
+* Regras
+* Palavras reservadas
+* REPL
+* Ajuda
+* Tipos de dados
+* Operadores
+* Entrada e saída de dados
