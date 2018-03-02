@@ -1,3 +1,5 @@
+![ESTG](https://www.estg.ipp.pt/logo-ipp.png)
+
 # Conceitos Basicos
 
 * Comentários
